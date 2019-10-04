@@ -3,7 +3,7 @@ import numpy as np
 
 
 #2. Print the NUMPY version and the configuration.
-
+print("Hello, world!")
 
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
